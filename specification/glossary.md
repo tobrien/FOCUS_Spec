@@ -9,3 +9,9 @@ Resource:
 
 Service:
 > Add definition
+
+Multicloud:
+> Add definition
+
+Workload:
+> Add definition
