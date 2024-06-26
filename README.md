@@ -12,6 +12,8 @@ Some of the usecases this capability can enable:
 - The FOCUS spec will make it easier to merge multiple billing data sources together, and perform cross-cloud and cross-vendor analysis and cost reporting.
 - The FOCUS spec should make it easier to open source more FinOps visibility tools, and to accelerate the FinOps framework capability of data ingestion and normalization.
 
+TEST
+
 [Working Group Charter]() **Link TBC**
 
 ## Notation Conventions and Compliance
